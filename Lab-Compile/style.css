@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+                body {
+                    font-family: sans-serif;
+                    background-color: #f0f0f0;
+                    margin: 0;
+                    padding: 0;
+                }
+                header {
+                    background-color: #007ACC;
+                    color: #fff;
+                    font-family: Arial;
+                    text-align: center;
+                    padding: 20px;
+                }
+                h1 {
+                    margin: 0;
+                }
+                nav {
+                    background-color: #003D6A;
+                    color: #fff;
+                    padding: 10px;
+                }
+                nav ul {
+                    list-style: none;
+                    padding: 0;
+                }
+                nav li {
+                    margin-bottom: 5px;
+                }
+                a {
+                    color: #fff;
+                }
+                footer {
+                    color: #000;
+                    font-family: Arial;
+                    text-align: center;
+                    padding: 10px;
+                    position: fixed;
+                    bottom: 0px;
+                    width: 100%;
+
+                }
+        </style>
+    </head>
+</html>
